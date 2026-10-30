@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/inakake-oohira-sho",
  "yomi": "いなかけおおひらにおくるしょ",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書（書簡）",
+  "era": "江戸後期",
+  "author": "村田春海（1746〜1811）",
+  "desc": "本居大平（稲掛大平）が真淵の流れをくむ人々の歌を集めて「八十浦の玉」を編むと聞き、春海が真淵の歌風について所見を述べて送った書簡。大平の返書・春海の再書と一連のもの。"
+ },
  "editions": [
   {
    "pid": "993380",
